@@ -1,3 +1,5 @@
 {
- "projects": {}
+  "projects": {
+    "packages/ui/meta-repo-button": "git@github.com:justinmandac/meta-repo-button.git"
+  }
 }

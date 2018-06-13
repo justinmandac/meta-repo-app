@@ -8,5 +8,8 @@
     "chai": "^4.1.2",
     "mocha": "^5.2.0",
     "sinon": "^6.0.0"
+  },
+  "devDependencies": {
+    "meta-yarn": "^0.0.5"
   }
 }
